@@ -28,6 +28,8 @@ baseurl: "/blog/" # the subpath of your site, e.g. /blog
 url: "https://ueamth.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: UEA_Maths
 github_username:  ueamth
+instagram_username: UEAMTH
+facebook_username: ueamth
 
 # Build settings
 theme: minima
