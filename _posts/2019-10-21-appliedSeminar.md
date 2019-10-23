@@ -5,7 +5,7 @@ date:   2019-10-21
 categories: applied maths seminar
 ---
 
-Prof. Andrey Cherdantsev gives a research seminar at the School of Mathematics, UEA. The talk is on "Experimental Study of Air Entrapment at Oblique Impact of a Body at a Free Surface".
+Prof. Andrey Cherdantsev (Russian Academy of Sciences) gives a research seminar at the School of Mathematics, UEA. The talk is on "Experimental Study of Air Entrapment at Oblique Impact of a Body at a Free Surface".
 The abstract is below.
 
 In annular gas-liquid flow, droplets are torn from liquid film surface and entrained by turbulent gas stream. Impacts of the entrained droplets back onto the film occur at shallow angles and high impact velocities. In such a case, a droplet creates a long and narrow "furrow" on liquid surface, which is accompanied by massive entrapment of gas bubbles into the liquid film (see Fig. 1). This phenomenon is different from the known mechanisms of air entrapment such as air cushioning; its nature is not entirely clear and deserves intensive experimental and theoretical investigation.

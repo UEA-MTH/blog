@@ -5,8 +5,7 @@ date:   2019-10-28
 categories: pure maths seminar
 ---
 
-Nadav Meir gives a maths seminar at the School of Mathematics, UEA. The talk is on "O-minimality, pseudo-o-minimality: on first-order 
-properties of semialgebraic sets".
+Nadav Meir (Imperial College London) gives a maths seminar at the School of Mathematics, UEA. The talk is on "O-minimality, pseudo-o-minimality: on first-order properties of semialgebraic sets".
 The abstract is below.
 
 A semialgebraic set is a set given by the real solutions to a 

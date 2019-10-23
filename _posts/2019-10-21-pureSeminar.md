@@ -5,7 +5,7 @@ date:   2019-10-21
 categories: pure maths seminar
 ---
 
-Andreea Mocanu gives a maths seminar at the School of Mathematics, UEA. The talk is on "On the relation between Jacobi forms and elliptic 
+Andreea Mocanu (University of Nottingham) gives a maths seminar at the School of Mathematics, UEA. The talk is on "On the relation between Jacobi forms and elliptic 
 modular forms"".
 The abstract is below.
 
