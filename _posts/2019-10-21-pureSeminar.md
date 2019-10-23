@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Andrey Cherdantsev gives a pure maths seminar"
+title:  "Andreea Mocanu gives a pure maths seminar"
 date:   2019-10-21
 categories: pure maths seminar
 ---
