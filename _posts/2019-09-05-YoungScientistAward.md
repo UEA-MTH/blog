@@ -2,7 +2,7 @@
 layout: post
 title:  "Dr Davide Proment is given the Young Scientist Award"
 date:   2019-09-05
-categories: jekyll update
+categories: award
 ---
 
 Good news for UEAMTH! 
