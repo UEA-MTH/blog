@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Prof Stefan Llewellyn Smith gives an appplied research seminar"
+title:  "Prof. Stefan Llewellyn Smith gives an appplied research seminar"
 date:   2019-12-02
 categories: applied maths seminar
 ---
