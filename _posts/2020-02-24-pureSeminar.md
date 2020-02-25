@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mr Diego Millan Berdasco gives a pure maths seminar"
-date:   2020-01-27
+date:   2020-03-02
 categories: pure maths seminar
 ---
 
