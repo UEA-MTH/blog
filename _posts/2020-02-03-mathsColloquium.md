@@ -2,7 +2,7 @@
 layout: post
 title:  "Dr Paul Hammerton gives a maths colloquium"
 date:   2020-02-03
-categories: pure maths seminar
+categories: maths colloquium
 ---
 
 Dr Paul Hammerton (University of East Anglia) gives a maths colloquium at the School of Mathematics, UEA. The talk is on "Swinging cricket balls -- why boundary layer transition is important".
