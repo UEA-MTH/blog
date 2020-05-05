@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Prof. Kevin Buzzard gives a pure maths seminar (online)"
+title:  "Prof. Kevin Buzzard gives a pure maths webinar"
 date:   2020-04-20
 categories: pure maths seminar
 ---
 
-Prof. Kevin Buzzard (Imperial College London) gives an online maths seminar for the School of Mathematics, UEA. The talk is on "When will computers prove theorems?".
+Prof. Kevin Buzzard (Imperial College London) gives a pure maths webinar for the School of Mathematics, UEA. The talk is on "When will computers prove theorems?".
 
 To wacth the seminar online use the link:
 [https://eu.bbcollab.com/collab/ui/session/guest/8185f68437634510a12ba30b898ed319](https://eu.bbcollab.com/collab/ui/session/guest/8185f68437634510a12ba30b898ed319)

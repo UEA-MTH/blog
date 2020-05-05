@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Dr Nicola Gambino gives a pure maths seminar (online)"
+title:  "Dr Nicola Gambino gives a pure maths webinar"
 date:   2020-05-11
 categories: pure maths seminar
 ---
 
-Dr Nicola Gambino (University of Leeds) gives an online maths seminar for the School of Mathematics, UEA. The talk is on "Bicategories in algebra, logic and topology".
+Dr Nicola Gambino (University of Leeds) gives a maths webinar for the School of Mathematics, UEA. The talk is on "Bicategories in algebra, logic and topology".
 
 To wacth the seminar online use the link:
 [https://eu.bbcollab.com/guest/b1e4b15763cd40aca501aba016afd537](https://eu.bbcollab.com/guest/b1e4b15763cd40aca501aba016afd537)
