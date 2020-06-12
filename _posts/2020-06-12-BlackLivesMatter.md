@@ -23,4 +23,4 @@ Beyond the wider university support mechanisms we, as a School, would like to ho
  
 There is also an interesting (Guardian article)[https://www.theguardian.com/uk-news/2020/jun/10/be-the-change-20-positive-ways-to-fight-for-a-fairer-world] on what, as individuals, we can do to bring about change at a societal level. No one individual, or School, or University, can eradicate racism from society – but for change to happen, we must all take responsibility for it.
 
-Prof. Shaun Stevens (Head of School of the School of Mathematics)
+Prof. Shaun Stevens (Head of School of the UEA School of Mathematics)
